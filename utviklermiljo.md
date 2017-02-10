@@ -22,5 +22,19 @@ Noen har fått litt problemer med en bildebehandlingsutvidelse som Craft bruker,
 brew uninstall imagemagick && brew install imagemagick@6 && brew link imagemagick@6 --force
 ```
 
+### Installere node
+
+Nå som du har nvm kan du installere og bytte mellom node-versjoner lett som en plett.
+
+```
+nvm install v6 # eller v5, v4 osv.
+```
+
+For å bruke en versjon av node du har installert
+
+```
+nvm use v6
+```
+
 
 
