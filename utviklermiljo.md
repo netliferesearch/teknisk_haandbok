@@ -38,7 +38,11 @@ nvm use v6
 
 ## Koble deg til GitHub via SSH
 
+kommer
 
+## Koble deg til Heroku
+
+kommer
 
 
 
