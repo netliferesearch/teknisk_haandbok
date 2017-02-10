@@ -30,7 +30,7 @@ brew tap caskroom/cask
 brew install git nvm heroku composer
 ```
 
-Installere ting man trenger for [Craft-prosjekt](https://github.com/netliferesearch/craft-starter#global-dependencies-for-the-starter-pack). Ta en linje av gangen. 
+#### Installere ting man trenger for [Craft-prosjekt](https://github.com/netliferesearch/craft-starter#global-dependencies-for-the-starter-pack). Ta en linje av gangen.
 
 ```
 brew tap homebrew/dupes
@@ -45,8 +45,6 @@ Noen har fått litt problemer med en bildebehandlingsutvidelse som Craft bruker,
 ```
 brew uninstall imagemagick && brew install imagemagick@6 && brew link imagemagick@6 --force
 ```
-
-
 
 
 
