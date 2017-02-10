@@ -26,6 +26,12 @@ brew tap caskroom/cask
 
 ## Programmer du antagelivis trenger
 
+Du kan søke etter hvilket som helst program med 
+
+```
+brew cask search søkeord
+```
+
 Med disse linja kan vi installere en del programmer du trolig trenger. **Fjern fra lista apper du ikke ønsker å ha med.**
 
 ```
