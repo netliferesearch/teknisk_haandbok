@@ -36,6 +36,10 @@ For å bruke en versjon av node du har installert
 nvm use v6
 ```
 
+### Installere docker
+
+Docker er hendig.
+
 ## Koble deg til GitHub via SSH
 
 kommer
@@ -43,6 +47,4 @@ kommer
 ## Koble deg til Heroku
 
 kommer
-
-
 
