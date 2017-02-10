@@ -54,6 +54,12 @@ Vil du ha utvikler-versjon av nettleserne?
 brew cask install google-chrome-canary opera-developer firefoxdeveloperedition safari-technology-preview
 ```
 
+Vil du lage animert gif skjermdump?
+
+```
+brew cask install licecap
+```
+
 Har du en designer i magen? Obs: for noen av disse appene må du ha lisens
 
 ```
