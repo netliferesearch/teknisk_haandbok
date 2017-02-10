@@ -2,5 +2,5 @@
 
 ## CLI
 
-_Command Line Interface_. Kommandolinjeverktøy. Program som kjøres i Terminal e.l.
+Command Line Interface. Kommandolinjeverktøy. Program som kjøres i Terminal e.l.
 
