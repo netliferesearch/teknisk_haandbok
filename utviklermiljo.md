@@ -5,6 +5,10 @@
 * [ ] Installert \`brew\`
 * [ ] Har tilgang på organisasjonen Netlife Research på GitHub
 * [ ] Har tilgang på Heroku
+* [ ] Har installert git
+* [ ] Har installert nvm
+* [ ] Har installert heroku
+* [ ] Har installert composer
 
 ### Grunnpakken
 
