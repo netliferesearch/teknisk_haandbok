@@ -26,6 +26,8 @@ Når du har installert Homebrew og alt har gått bra, kan du installere Cask.
 brew tap caskroom/cask
 ```
 
+**Restart Terminal.app for sikkerhets skyld.**
+
 ## Programmer du antagelivis trenger
 
 Du kan søke etter hvilket som helst program med
