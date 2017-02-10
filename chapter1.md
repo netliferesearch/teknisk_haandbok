@@ -18,5 +18,23 @@ Kjør denne linja i terminal:
 
 ### Installere Cask
 
+Når du har installert Homebrew og alt har gått bra, kan du installere Cask.
+
+```
+brew tap caskroom/cask
+```
+
+## Installere ting man trenger til utviklermiljø
+
+```
+brew install git nvm heroku composer
+```
+
+Installere ting man trenger for Craft-prosjekt
+
+```
+brew install 
+```
+
 
 
