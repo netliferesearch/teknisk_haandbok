@@ -38,5 +38,11 @@ Fjern de kode-editorene du ikke vil ha
 brew cask install atom sublime-text visual-studio-code
 ```
 
+Vil du ha utvikler-versjon av nettleserne?
+
+```
+brew cask install google-chrome-canary opera-developer firefoxdeveloperedition safari-technology-preview
+```
+
 
 
