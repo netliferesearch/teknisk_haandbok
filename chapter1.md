@@ -26,7 +26,7 @@ brew tap caskroom/cask
 
 ## Programmer du antagelivis trenger
 
-Med denne linja kan vi installere en del programmer du antagelivis trenger. Fjern fra lista det du ikke ønsker å ha med
+Med denne linja kan vi installere en del programmer du antagelivis trenger. **Fjern fra lista apper du ikke ønsker å ha med.**
 
 ```
 brew cask install chrome opera firefox harvest backblaze google-drive slack
@@ -50,9 +50,13 @@ Har du en designer i magen? Obs: for noen av disse appene må du ha lisens
 brew cask install sketch adobe-creative-cloud
 ```
 
+Vil du gjøre git, men fra et GUI?
+
+```
+brew cask install github-desktop tower gitup
+```
+
 ### Installere 1Password
 
 Sjekk [intranettet.](https://intranett.netliferesearch.com/it/passord)
-
-
 
