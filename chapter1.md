@@ -1,4 +1,4 @@
-# Ny Mac :tada:
+# Ny Mac 🎉
 
 Gratulerer med ny mac!
 
