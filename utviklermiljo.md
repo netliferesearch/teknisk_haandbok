@@ -36,5 +36,9 @@ For å bruke en versjon av node du har installert
 nvm use v6
 ```
 
+## Koble deg til GitHub via SSH
+
+
+
 
 
