@@ -26,7 +26,7 @@ brew tap caskroom/cask
 
 ## Programmer du antagelivis trenger
 
-Med disse linja kan vi installere en del programmer du antagelivis trenger. **Fjern fra lista apper du ikke ønsker å ha med.**
+Med disse linja kan vi installere en del programmer du trolig trenger. **Fjern fra lista apper du ikke ønsker å ha med.**
 
 ```
 brew cask install chrome opera firefox harvest backblaze google-drive slack
