@@ -50,5 +50,9 @@ Har du en designer i magen? Obs: for noen av disse appene må du ha lisens
 brew cask install sketch adobe-creative-cloud
 ```
 
+### Installere 1Password
+
+Sjekk [intranettet.](https://intranett.netliferesearch.com/it/passord)
+
 
 
