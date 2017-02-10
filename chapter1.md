@@ -4,6 +4,8 @@ Gratulerer med ny mac!
 
 Det første du må gjøre er å åpne **Terminal.app. **Uansett om du føler deg, eller ikke føler deg som en teknolog eller utvikler er det veldig greit å sette dette opp en gang for alle. Om du plutselig er nødt til å kjøre en nettside lokalt, eller trenger å ta noe ned eller dytte noe opp til GitHub er greit å ha dette minimale på plass. Det blir også enklere for andre å hjelpe deg med problemer som eventuelt måtte oppstå.
 
+Les gjerne på intranett om hvordan du [skal sikre macen](https://intranett.netliferesearch.com/it/sikre-laptop) og [hvilke apper og verktøy vi bruker](https://intranett.netliferesearch.com/it/verktoy-og-apper-vi-bruker).
+
 ## Installere Homebrew og Cask
 
 [Homebrew](http://brew.sh/) gjør det enkelt å installere CLI-verktøy, Homebrew Cask gjør det mulig å innstallere GUI-apper uten å måtte laste ned en DMG-fil e.l.
@@ -26,7 +28,7 @@ brew tap caskroom/cask
 
 ## Programmer du antagelivis trenger
 
-Du kan søke etter hvilket som helst program med 
+Du kan søke etter hvilket som helst program med
 
 ```
 brew cask search søkeord
