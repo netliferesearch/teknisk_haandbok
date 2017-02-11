@@ -10,11 +10,12 @@
 * [ ] Har installert heroku
 * [ ] Har installert composer
 
-### Grunnpakken
+## Grunnpakken
 
 ```
-brew install git nvm heroku composer
+brew install git heroku composer nvm
 ```
+Kan være lurt å restarte Terminal.app etter du er ferdig med å installere disse. 
 
 * **git**: versjonshistorikkhåndtering, eller, måten vi lagrer, versjonerer og deler kode på i Netlife Research.
 * **nvm: n**ode **v**ersion **m**anager, eller, gjør det enkelt å holde node.js-oppdatert.
@@ -22,7 +23,16 @@ brew install git nvm heroku composer
 * **heroku: **heroku er skyen hvor vi drifter, bygger og hoster det meste vi har på nettet.
 * **composer:** er en _package manager_ for php, vi bruker det for eksempel i Craft-prosjekter.
 
-#### Installere ting man trenger for [Craft-prosjekt](https://github.com/netliferesearch/craft-starter#global-dependencies-for-the-starter-pack). Ta en linje av gangen.
+### Du er ikke ferdig med nvm og node helt ennå
+
+For at nvm skal virke må du sørge for å ha fulgt disse instruksjonene. Forutsetter at du kjører i Bash og ikke et annet shell, om du kjører i et annet shell virker det som du vet hva du holder på med, og trenger ikke så mye mer forklaring. Eller hva?
+
+```bash
+echo "export NVM_DIR=~/.nvm\nsource $(brew --prefix nvm)/nvm.sh" >> ~/.bash_profile
+```
+
+
+### Installere ting man trenger for [Craft-prosjekt](https://github.com/netliferesearch/craft-starter#global-dependencies-for-the-starter-pack). Ta en linje av gangen.
 
 ```
 brew tap homebrew/dupes
