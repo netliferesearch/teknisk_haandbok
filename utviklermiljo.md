@@ -53,7 +53,7 @@ brew uninstall imagemagick && brew install imagemagick@6 && brew link imagemagic
 Nå som du har nvm kan du installere og bytte mellom node-versjoner lett som en plett.
 
 ```
-nvm install v6 # eller v5, v4 osv.
+nvm install v6
 ```
 
 For å bruke en versjon av node du har installert
@@ -62,15 +62,16 @@ For å bruke en versjon av node du har installert
 nvm use v6
 ```
 
-### Installere docker
-
-kommer
 
 ## Koble deg til GitHub via SSH
 
 kommer
 
 ## Koble deg til Heroku
+
+kommer
+
+## Installere docker
 
 kommer
 
