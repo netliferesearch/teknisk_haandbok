@@ -16,11 +16,11 @@
 brew install git nvm heroku composer
 ```
 
-* **git**: versjonshistorikkhåndtering, eller, måten vi lagrer, versjonerer og deler kode på i Netlife Research
-* **nvm: n**ode **v**ersion **m**anager, eller, gjør det enkelt å holde node.js-oppdatert
-* **node: n**ode bruker vi for å kjøre javascript utenfor nettleseren. Med node kommer også **npm** \(**n**ode** p**ackage** m**anager\) som først og fremst bruker til å installere pakker og avhengigheter til frontend.
+* **git**: versjonshistorikkhåndtering, eller, måten vi lagrer, versjonerer og deler kode på i Netlife Research.
+* **nvm: n**ode **v**ersion **m**anager, eller, gjør det enkelt å holde node.js-oppdatert.
+* **node: n**ode bruker vi for å kjøre javascript utenfor nettleseren. Med node kommer også **npm** \(**n**ode** p**ackage** m**anager\) som først og fremst bruker til å installere pakker og avhengigheter til frontend. [Les mer om npm her](https://www.impressivewebs.com/npm-for-beginners-a-guide-for-front-end-developers/?ref=webdesignernews.com).
 * **heroku: **heroku er skyen hvor vi drifter, bygger og hoster det meste vi har på nettet.
-* **composer:** er en _package manager_ for php, vi bruker det for eksempel i Craft-prosjekter
+* **composer:** er en _package manager_ for php, vi bruker det for eksempel i Craft-prosjekter.
 
 #### Installere ting man trenger for [Craft-prosjekt](https://github.com/netliferesearch/craft-starter#global-dependencies-for-the-starter-pack). Ta en linje av gangen.
 
@@ -54,7 +54,7 @@ nvm use v6
 
 ### Installere docker
 
-Docker er hendig.
+kommer
 
 ## Koble deg til GitHub via SSH
 
