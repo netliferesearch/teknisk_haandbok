@@ -15,7 +15,8 @@
 ```
 brew install git heroku composer nvm
 ```
-Kan være lurt å restarte Terminal.app etter du er ferdig med å installere disse. 
+
+Kan være lurt å restarte Terminal.app etter du er ferdig med å installere disse.
 
 * **git**: versjonshistorikkhåndtering, eller, måten vi lagrer, versjonerer og deler kode på i Netlife Research.
 * **nvm: n**ode **v**ersion **m**anager, eller, gjør det enkelt å holde node.js-oppdatert.
@@ -30,7 +31,6 @@ For at nvm skal virke må du sørge for å ha fulgt disse instruksjonene. Foruts
 ```bash
 echo "export NVM_DIR=~/.nvm\nsource $(brew --prefix nvm)/nvm.sh" >> ~/.bash_profile
 ```
-
 
 ### Installere ting man trenger for [Craft-prosjekt](https://github.com/netliferesearch/craft-starter#global-dependencies-for-the-starter-pack). Ta en linje av gangen.
 
@@ -61,7 +61,6 @@ For å bruke en versjon av node du har installert
 ```
 nvm use v6
 ```
-
 
 ## Koble deg til GitHub via SSH
 
