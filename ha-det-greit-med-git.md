@@ -14,7 +14,5 @@ F.eks «change color in header», «add filter button», «fix password bug»
 
 # «Fakkerten, det skulle jeg ikke ha gjort»
 
-Se også \[Oh shit, git!\]\([http://ohshitgit.com/\](http://ohshitgit.com/\)\)
-
-
+Se også [Oh shit, git!](http://ohshitgit.com/)
 
