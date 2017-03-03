@@ -7,4 +7,5 @@
 * [Putt greiene i skyen](heroku-putt-greiene-i-skyen.md)
 * [Ha det greit med git](ha-det-greit-med-git.md)
 * [Prodsetting som en pro](prodsetting-som-en-pro.md)
+* [Videokonferanse uten trøbbel](videokonferanse-uten-trobbel.md)
 
