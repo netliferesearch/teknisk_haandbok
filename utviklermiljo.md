@@ -62,6 +62,12 @@ For å bruke en versjon av node du har installert
 nvm use v6
 ```
 
+Om du vi sette en versjon som standard 
+
+```
+nvm use default v6
+```
+
 ## Koble deg til GitHub via SSH
 
 kommer
