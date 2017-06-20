@@ -8,4 +8,4 @@
 * [Ha det greit med git](ha-det-greit-med-git.md)
 * [Prodsetting som en pro](prodsetting-som-en-pro.md)
 * [Videokonferanse uten trøbbel](videokonferanse-uten-trobbel.md)
-
+* [Jobb effektivt med tastatursnarveier](jobb-effektivt-med-tastatursnarveier.md)
