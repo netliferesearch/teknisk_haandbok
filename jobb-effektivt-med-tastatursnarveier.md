@@ -46,26 +46,28 @@ Bruker du mye tid daglig til å plassere app-vinduer på skjermen, kommer @olema
 
 [Last ned Spectacle-app](https://www.spectacleapp.com/)
 
-Spectacle mapper tastatursnarveier til plassering av app-vinduer. Nå får du sende presist apper til de fire skjermkvadrantene, fordele skjermen rent i to, eller hva som helst du ønsker. 
+Spectacle mapper tastatursnarveier til plassering av app-vinduer. Nå får du sende presist apper til de fire skjermkvadrantene, fordele skjermen rent i to, eller hva som helst du ønsker.
 
 ## Slipp det kjedeligste: Lagre dine egne skreddersydde snarveier
 
-Tastatursnarveier brukes best til ting som du selv gjør gjentatte ganger i løpet av dagen. Hvis du er ofte nød til å velge og sette in tusenvis filer i Keynote, kan Cmd+Shift+V bli din beste venn. Merk hvilke meny-vendte ting du driver med oftest, og begyn der.
+Tastatursnarveier brukes best til ting som du selv gjør gjentatte ganger i løpet av dagen. For eksempel, hvis du ofte er nød til å velge og sette in tusenvis filer i Keynote, kan Cmd+Shift+V bli din beste venn. Merk hvilke meny-vendte ting du driver med oftest, og begyn der.
+
+Hvis du lurer på om det allerede finnes en snarvei for noe du skal på Mac, viser også de fleste menykommandoene hver sin tastatursnarvei. Disse kan jo erstattes hvis ikke de gir mening for deg, og/eller føles litt Spock-aktig å bruke.
 
 # ![](/assets/tastatursnarvei.gif)
 
-Velg _Apple-menyen > Systemvalg…_. Trykk på Tastatur-biten og velg _Snarveier_ og så _Programsnarveier_. Der får du legge til nye snarveier ved å trykke på Pluss-knappen. Velg appen du ønsker å opprette/endre snarveien i, og taste inn en snarvei som du selv foretrekker å bruke.
+Velg _Apple-menyen > Systemvalg…_. Trykk på Tastatur-biten og velg _Snarveier_ og så _Programsnarveier_. Her får du legge til nye snarveier ved å trykke på Pluss-knappen.
 
-NB: Menyvalget må legges inn i Instillingene verbatim sånn som det står i menyen. Du får kun lagre app-tastatursnarveier til valg som finnes i en av menyene til appen.
+1. Velg appen du ønsker å opprette/endre snarveien i
+2. Skriv meny-navnet til kommandoen (_NB: Meny-navnet må legges inn verbatim sånn som det står i menyen._)
+3. Tast inn en snarvei som du selv foretrekker å bruke.
 
 Du kan, forresten:
 
-* [ ] opprette snarveier i en bestemt app på Mac (bare velg den)
+* [ ] opprette snarveier i en bestemt app (bare velg den)
 * [ ] opprette snarveier som kan brukes på tvers av flere apper (velg _Alle programmer_). Kommandonavnene må være like i hver app hvis dette skal funke.
 
-_Pro tip:_ Hvis du lurer på om det allerede finnes en snarvei for noe du skal på Mac, viser også de fleste menykommandoene hver sin tastatursnarvei. Disse kan jo erstattes hvis de ikke gir mening for deg og/eller føles litt Spock-aktig å bruke.
-
-## Bli fullstendig Pro: Legg til Alfred-app
+## Go Pro: Legg til Alfred-app
 
 Alfred funker likt som Cmd+Space, med ekstra funksjonalitet. Du kan lagre tastatursnarveier som slår opp ord i Store Norske Leksikon i nettleseren, eller søke etter og åpne bokmerker du har lagret i Chrome. Alt.
 
