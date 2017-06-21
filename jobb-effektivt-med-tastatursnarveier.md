@@ -70,7 +70,7 @@ Du kan, forresten:
 
 ## Go Pro: Legg til Alfred-app
 
-Alfred funker likt som Cmd+Space, med ekstra funksjonalitet. Du kan lagre tastatursnarveier som slår opp ord i Store Norske Leksikon i nettleseren, eller søke etter og åpne bokmerker du har lagret i Chrome. Alt.
+Alfred funker likt som Cmd+Space, med mye ekstra funksjonalitet. On steroids. Du kan lagre tastatursnarveier som slår opp ord i Store Norske Leksikon i nettleseren, eller søke etter og åpne bokmerker du har lagret i Chrome. Alt.
 
 [Last ned Alfred-app](https://www.alfredapp.com/).
 
