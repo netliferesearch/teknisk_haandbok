@@ -54,7 +54,7 @@ Tastatursnarveier brukes best til ting som du selv gjør gjentatte ganger i løp
 
 Hvis du lurer på om det allerede finnes en snarvei for noe du skal på Mac, viser også de fleste menykommandoene hver sin tastatursnarvei. Disse kan jo erstattes hvis ikke de gir mening for deg, og/eller føles litt Spock-aktig å bruke.
 
-# ![](/assets/tastatursnarvei.gif)
+# [](/assets/tastatursnarvei.gif)
 
 Velg _Apple-menyen > Systemvalg…_. Trykk på Tastatur-biten og velg _Snarveier_ og så _Programsnarveier_. Her får du legge til nye snarveier ved å trykke på Pluss-knappen.
 
@@ -64,8 +64,8 @@ Velg _Apple-menyen > Systemvalg…_. Trykk på Tastatur-biten og velg _Snarveier
 
 Du kan, forresten:
 
-* [ ] opprette snarveier i en bestemt app (bare velg den)
-* [ ] opprette snarveier som kan brukes på tvers av flere apper (velg _Alle programmer_). Kommandonavnene må være like i hver app hvis dette skal funke.
+* opprette snarveier i en bestemt app (bare velg den)
+* opprette snarveier som kan brukes på tvers av flere apper (velg _Alle programmer_). Kommandonavnene må være like i hver app hvis dette skal funke.
 
 ## Go Pro: Legg til Alfred-app
 
