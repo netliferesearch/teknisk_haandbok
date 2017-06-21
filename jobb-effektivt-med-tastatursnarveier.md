@@ -2,70 +2,74 @@
 
 ## Getting started
 
-Bruker du tastatursnarveier sjeldent, finner du [bra oversikt av kommandotastene og vanlige kommandoer her](https://support.apple.com/en-us/HT201236). Du kan slutte med den etter den første seksjonen, som handler om hvilke taster er hvilke, og noen mye-brukte kommandoer.
+Bruker du tastatursnarveier sjeldent, finner du [bra oversikt av kommandotastene og vanlige kommandoer her](https://support.apple.com/en-us/HT201236). Bra å lese de første to korte bitene der, som handler om hvilken tast er hvilken, og noen ofte-brukte kommandoer.
 
-Bra å ha sånne basics med deg før du går videre, men ikke _helt_ kritisk.
-
-## Bli dritflink i Slack, og spar deg for tid hver eneste dag
+## Først: Bli dritflink i Slack, og spar deg for tid hver dag
 
 Serr, arbeidsdagen blir umiddelbart ti ganger bedre.
 
 ```
 Cmd+K
 ```
-Tast Cmd+K i Slack for å hente ei liste av de kanalene og DM-er du ikke har lest ennå. Bruk piltastene for å navigere opp og ned lista, og Return til å velge. Les, tast Cmd+K igjen for å se på den neste, osv. Boom. Værsågod. Ulest-lista avvises ved Esc-tasten.
+Bruk Cmd+K i Slack for å hente ei liste av de kanalene og DM-er du ikke har lest ennå. Les, tast Cmd+K igjen for å se på den neste, osv. Boom. _Pro tip:_ Bruk piltastene for å navigere opp og ned lista, og Return til å velge. Ulest-lista avvises ved Esc-tasten.
 
-Har dette skjerpet appetitten din, prøv disse:
+Har det skjerpet appetitten din, prøv også disse:
 
 ```
 Cmd+Shift+K
 ```
-Med Cmd+Shift+K får du opp DM-vinduet. Her kan du velge blant dine siste DM-samtaler og/eller begynne en ny. _Pro tip:_ bruk piltastene til å navigere lista og Return til å legge folk til, og også til å begynne samtalen. Avvis DM-vinduet ved Esc-tasten.
+Med Cmd+Shift+K får du opp DM-vinduet. Her kan du velge blant dine siste/mest-brukte DM-samtaler og/eller begynne en ny. _Pro tip:_ bruk piltastene til å navigere lista, og Return til å legge folk til og å begynne samtalen. Avvis DM-vinduet ved Esc-tasten.
 
 ```
 Cmd+Shift+M
 ```
-Bruk Cmd+Shift+M i hverdagen for å få opp Activity-vinduet i sidepanellen, med hver gang folk omtaler deg, legger emoji-response til ting du har skrevet, etc. Activity-panellen togles av igjen med den samme snarveien.
+Bruk Cmd+Shift+M for å få opp Activity-vinduet i sidepanellen, som viser deg hver gang folk omtaler deg, legger emoji-response til ting du har skrevet, osv. _Pro tip:_ Activity-panellen togles av igjen med den samme snarveien.
 
-## Finn alt på maskinen kjapt som Bruce Lee
+## Neste: Finn alt på maskinen kjapt som Bruce Lee
 
 ```
 Cmd+Mellomrom
 ```
-Cmd+Mellomrom får opp et lite vindu som heter Spotlight. Dette er den raskeste måten å åpne apper på. Spotlight finner og åpner også alt annet som er lagret på din datamaskin: dokumenter, filer, hva som helst. _Pro tip:_ I Spotlight-søkefeltet, bruk piltastene og Return for å velge hvilken app/file du skal åpne.
+Cmd+Mellomrom får opp et lite men svært kraftig vindu som heter Spotlight. Dette er den raskeste måten å åpne apper på: bare begyn å skrive navnet til appen, og få opp ei liste ting som matcher. Spotlight brukes også til å hente alt annet som er lagret på din datamaskin: dokumenter, filer, kontakter, hva som helst. _Pro tip:_ I Spotlight-søkefeltet, bruk piltastene til å navigere lista og Return for å velge appen/fila.
 
-## Øv deg ved å installere CheatSheet-appen
+## Få tastaturbruk for vane: Øv deg ved å installere CheatSheet-appen
 
 Vanlig bruk av tastatursnarveier lærer fingerene dine hvordan det funker, slik at du nesten slipper tenke på det overhodet.
 
 [Last ned CheatSheet-appen](https://www.mediaatelier.com/CheatSheet/) og installer.
 
-Bruk CheatSheet når du skulle bruke tastatursnarvei, men husker ikke hvilke taster du trenger. Hold inne Command-tasten i (nesten) hvilken som helst app på Mac. Så dukker det opp ei liste kommandoer med de vanligste tastatursnarveiene, gruppert etter funksjonstype. Genialt!
+Bruk CheatSheet når du skulle bruke tastatursnarvei, men når du ikke husker hvilke taster du trenger. Hold inne Command-tasten i (nesten) hvilken som helst app på Mac: så dukker det opp ei liste kommandoer med de vanligste tastatursnarveiene, gruppert etter funksjonstype. Genialt!
 
-## Gå videre ved å lagre dine egne skreddersydde snarveier på Mac
+## Behersk ditt univers: Send vinduene akkurat hvor du skal
 
-Tenk hva slags ting du må gjøre på Mac tivis eller hundrevis ganger i løpet av dagen. Det er akkurat sånne ting som du kunne bruke tastatursnarveier til.
+Bruker du mye tid daglig til å plassere app-vinduer på skjermen, kommer @olemagnus med noe som frister:
 
-Pro tip: Hvis du lurer på om det allerede finnes en snarvei for noe du skal på Mac, bor kommandoene i appens menyer, ved siden av menyvalgene. De fleste menykommandoene har tilsvarende tastatursnarveier. Ellers, fortsett sånn:
+[Last ned Spectacle-app](https://www.spectacleapp.com/)
 
-Velg _Apple-menyen > Systemvalg…_. Trykk på Tastatur-bildet og velg _Snarveier_ og så _Programsnarveier_. Der får du legge til nye snarveier ved å trykke på Pluss-knappen. Velg hvilken app du ønsker opprette snarveien i, og taste inn en snarvei som du selv foretrekker å bruke.
+Spectacle mapper tastatursnarveier til plassering av app-vinduer. Nå får du sende presist apper til de fire skjermkvadrantene, fordele skjermen rent i to, eller hva som helst du ønsker. 
+
+## Slipp det kjedeligste: Lagre dine egne skreddersydde snarveier
+
+Tastatursnarveier brukes best til ting som du selv gjør gjentatte ganger i løpet av dagen. Hvis du er ofte nød til å velge og sette in tusenvis filer i Keynote, kan Cmd+Shift+V bli din beste venn. Merk hvilke meny-vendte ting du driver med oftest, og begyn der.
 
 # ![](/assets/tastatursnarvei.gif)
 
-En liten begrensning: du får kun lagre tastatursnarvei hvis kommandoen finnes i en av menyene til appen. Altså menyvalget må legges inn i Instillingene verbatim sånn som det står i menyen.
+Velg _Apple-menyen > Systemvalg…_. Trykk på Tastatur-biten og velg _Snarveier_ og så _Programsnarveier_. Der får du legge til nye snarveier ved å trykke på Pluss-knappen. Velg appen du ønsker å opprette/endre snarveien i, og taste inn en snarvei som du selv foretrekker å bruke.
 
-Husk også at du har to valg:
+NB: Menyvalget må legges inn i Instillingene verbatim sånn som det står i menyen. Du får kun lagre app-tastatursnarveier til valg som finnes i en av menyene til appen.
 
-* [ ] opprett snarveier som skal brukes i en bestemt app på Mac
-* [ ] opprett snarveier som kan brukes på tvers av flere apper. Disse må ha de samme navnene i sine tilsvarende menyer for at det skal funke. Unntak: Apple-menyen, som er tilgjengelig uansett hvilken app du bruker for tida.
+Du kan, forresten:
 
-_Pro tip:_ Lagre en tastatursnarvei til Instillingene (hva med Cmd+Shift+I?), og så bruk Cmd+F til å finne den Instillinger-biten du skal (nesten alltid _tastatur_-noe, ikke sant?)
+* [ ] opprette snarveier i en bestemt app på Mac (bare velg den)
+* [ ] opprette snarveier som kan brukes på tvers av flere apper (velg _Alle programmer_). Kommandonavnene må være like i hver app hvis dette skal funke.
 
-## Gå fullstendig Pro med Alfred-app
+_Pro tip:_ Hvis du lurer på om det allerede finnes en snarvei for noe du skal på Mac, viser også de fleste menykommandoene hver sin tastatursnarvei. Disse kan jo erstattes hvis de ikke gir mening for deg og/eller føles litt Spock-aktig å bruke.
 
-[Last ned Alfred app](https://www.alfredapp.com/).
+## Bli fullstendig Pro: Legg til Alfred-app
 
-Alfred funker likt som Cmd+Space, med ekstra funksjonalitet. Du kan lagre tastatursnarveier som slår opp Store Norsk Leksikon i nettleseren eller søke etter og åpne bokmerker du har lagret i Chrome.
+Alfred funker likt som Cmd+Space, med ekstra funksjonalitet. Du kan lagre tastatursnarveier som slår opp ord i Store Norske Leksikon i nettleseren, eller søke etter og åpne bokmerker du har lagret i Chrome. Alt.
 
-Etter du er blitt vant til å bruke Cmd+Space kan du tenke at det blir greit å [å remappe snarveien som lanserer Alfred til Cmd+Space, som viser seg å være helt PITA](https://www.alfredapp.com/help/troubleshooting/cmd-space/). En bedre løsning kan være [å mappe CAPS LOCK til Cmd+Space for å aktivere Alfred](
-http://brettterpstra.com/2017/06/15/a-hyper-key-with-karabiner-elements-full-instructions/)
+[Last ned Alfred-app](https://www.alfredapp.com/).
+
+Etter du er blitt vant til å bruke Cmd+Space kan du tenke at det blir greit å [å remappe snarveien som lanserer Alfred til Cmd+Space, som viser seg å være fullstendig PITA](https://www.alfredapp.com/help/troubleshooting/cmd-space/). En bedre løsning kan være [å mappe CAPS LOCK til Cmd+Space for å aktivisere Alfred](
+http://brettterpstra.com/2017/06/15/a-hyper-key-with-karabiner-elements-full-instructions/) (takk @dataknut for den)
