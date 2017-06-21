@@ -56,11 +56,12 @@ Hvis du lurer på om det allerede finnes en snarvei for noe du skal på Mac, vis
 
 ![gif som viser hvordan man finner fram til tastatursnarveier i OS X](https://github.com/netliferesearch/teknisk_haandbok/blob/master/assets/tastatursnarvei.gif)
 
-Velg _Apple-menyen > Systemvalg…_. Trykk på Tastatur-biten og velg _Snarveier_ og så _Programsnarveier_. Her får du legge til nye snarveier ved å trykke på Pluss-knappen.
+Velg _Apple-menyen > Systemvalg…_. Trykk på Tastatur-biten og velg _Snarveier_ og så _Programsnarveier_. Her får du legge til nye snarveier sånn:
 
-1. Velg appen du ønsker å opprette/endre snarveien i
-2. Skriv meny-navnet til kommandoen (_NB: Meny-navnet må legges inn verbatim sånn som det står i menyen._)
-3. Tast inn en snarvei som du selv foretrekker å bruke.
+1. Trykk på Pluss-knappen
+2. Velg appen du ønsker å opprette/endre snarveien i
+3. Skriv meny-navnet til kommandoen (_NB: Meny-navnet må legges inn verbatim sånn som det står i menyen._)
+4. Tast inn en snarvei som du selv foretrekker å bruke.
 
 Du kan, forresten:
 
