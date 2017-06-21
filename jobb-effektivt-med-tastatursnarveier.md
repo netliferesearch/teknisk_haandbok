@@ -54,7 +54,7 @@ Tastatursnarveier brukes best til ting som du selv gjør gjentatte ganger i løp
 
 Hvis du lurer på om det allerede finnes en snarvei for noe du skal på Mac, viser også de fleste menykommandoene hver sin tastatursnarvei. Disse kan jo erstattes hvis ikke de gir mening for deg, og/eller føles litt Spock-aktig å bruke.
 
-![gif som viser hvordan man finner fram til tastatursnarveier i OS X](/assets/tastatursnarvei.gif)
+![gif som viser hvordan man finner fram til tastatursnarveier i OS X](https://github.com/netliferesearch/teknisk_haandbok/blob/master/assets/tastatursnarvei.gif)
 
 Velg _Apple-menyen > Systemvalg…_. Trykk på Tastatur-biten og velg _Snarveier_ og så _Programsnarveier_. Her får du legge til nye snarveier ved å trykke på Pluss-knappen.
 
