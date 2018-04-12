@@ -65,8 +65,8 @@ Velg _Apple-menyen > Systemvalg…_. Trykk på Tastatur-biten og velg _Snarveier
 
 Du kan, forresten:
 
-* opprette snarveier i en bestemt app (bare velg den)
-* opprette snarveier som kan brukes på tvers av flere apper (velg _Alle programmer_). Kommandonavnene må være like i hver app hvis dette skal funke.
+* opprette snarveier i en bestemt app (bare velg den i flyten ovenfor)
+* opprette snarveier som kan brukes på tvers av flere apper (velg _Alle programmer_). Kommandonavnene må være like i hver app hvis dette skal funke. Vær obs på at du ikke påkjører nyttige tastatursnarveier i enkelte apper ved ei sånn "på tvers"-tilnærming.    
 
 ## Go Pro: Legg til Alfred-app
 
@@ -74,5 +74,5 @@ Alfred funker likt som Cmd+Space, med mye ekstra funksjonalitet. On steroids. Du
 
 [Last ned Alfred-app](https://www.alfredapp.com/).
 
-Etter du er blitt vant til å bruke Cmd+Space kan du tenke at det blir greit å [å remappe snarveien som lanserer Alfred til Cmd+Space, som viser seg å være fullstendig PITA](https://www.alfredapp.com/help/troubleshooting/cmd-space/). En bedre løsning kan være [å mappe CAPS LOCK til Cmd+Space for å aktivisere Alfred](
+Etter du er blitt vant til å bruke Cmd+Space kan du tenke at det blir greit [å remappe snarveien som lanserer Alfred til Cmd+Space, som viser seg å være fullstendig PITA](https://www.alfredapp.com/help/troubleshooting/cmd-space/). En bedre løsning kan være [å mappe CAPS LOCK til Cmd+Space for å aktivisere Alfred](
 http://brettterpstra.com/2017/06/15/a-hyper-key-with-karabiner-elements-full-instructions/) (takk @dataknut for den)
